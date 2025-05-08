@@ -9,7 +9,7 @@ Original file is located at
 ### # Install the neededful
 """
 
-!pip install pandas numpy matplotlib seaborn prophet openpyxl
+pip install pandas numpy matplotlib seaborn prophet openpyxl
 
 """###"""
 
